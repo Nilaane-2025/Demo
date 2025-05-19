@@ -1,11 +1,12 @@
-# Demo
+t# Demo
 I am learning about Git hub
 <br>
 Author-Nilaane Valakonda
 <br>
 I am trying to use the git pull command 
 <br>
-This is the next try
+This is the next try 
+next.
 
 
 
